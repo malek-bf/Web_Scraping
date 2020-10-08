@@ -17,8 +17,8 @@ Check the Beautifulsoup homepage at https://www.crummy.com/software/BeautifulSou
 
 Requirements
 =
-python 3.7+
-Works on Linux, Windows, macOS, BSD
+*python 2.7+
+*Works on Linux, Windows, macOS, BSD
 
 
 
