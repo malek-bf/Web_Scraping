@@ -28,7 +28,7 @@ Easiest way to install external libraries in python is to use pip. pip is a pack
 
 All you need to do is::
 
-   pip install bs4
+    pip install bs4
 
   
 
