@@ -34,6 +34,29 @@ All you need to do is:
     
     pip install lxml
     
+=> It’s essential to install lxml
+
+Step2
+----
+Accessing the HTML content from webpage:
+
+    import requests 
+    source = requests.get('https://www.hotnewhiphop.com/top100/').text
+    
+First of all import the requests library.
+
+Then, specify the URL of the webpage you want to scrape
+
+=> I'm going to scrape the top100 songs from  #hotnewhiphop.com
+                                              
+    
+
+
+  
+
+    
+
+    
     
 
   
