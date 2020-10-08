@@ -15,6 +15,12 @@ It commonly saves programmers hours or days of work.
 
 Check the Beautifulsoup homepage at https://www.crummy.com/software/BeautifulSoup/bs4/doc/ for more information, including a list of features.
 
+Requirements
+=
+python 3.7+
+Works on Linux, Windows, macOS, BSD
+
+
 
 
 
