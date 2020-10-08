@@ -20,6 +20,12 @@ Requirements
 * Python 2.7+
 * Works on Linux, Windows, macOS, BSD
 
+Step1
+=
+Installing the required libraries:
+Easiest way to install external libraries in python is to use pip. pip is a package management system used to install and manage software packages written in Python.
+
+
 
 
 
