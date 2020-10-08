@@ -67,7 +67,7 @@ Parsing the HTML content:
  
  So, we would like to create a program to save those Top100Songs (and all relevant information about them).
  
- It is noticed that all the information that we need are inside a "div" or "li" container . So, we find that div or li element  using find() or find_all() method and mention the   id of that container
+ It is noticed that all the information that we need are inside a "div" or "li" container . So, we find that "div" or "li" element  using find() or find_all() method and mention the   id of that container
  
  for expl:
  
@@ -87,6 +87,10 @@ Parsing the HTML content:
   We create the new CSV file when we “open” it using “csv.writer”
   
   The “w” tells the computer to “write” to the file. And to keep everything organized, let’s write some column headers.
+  
+  As each line is processed, the rank,song_name,artist and link information is written to our CSV file.
+  
+    csv_writer.writerow([rank, song_name,artist,final_link])
 
  
  
