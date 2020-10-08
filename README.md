@@ -47,7 +47,7 @@ First of all import the requests library.
 
 Then, specify the URL of the webpage you want to scrape
 
-=> I'm going to scrape the top100 songs from  #hotnewhiphop.com
+=> I'm going to scrape the top100 songs from  https://www.hotnewhiphop.com/
                                               
     
 
