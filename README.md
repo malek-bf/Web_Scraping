@@ -57,7 +57,7 @@ Parsing the HTML content:
     source = requests.get('https://www.hotnewhiphop.com/top100/').text
     soup = BeautifulSoup(source, 'lxml')
     
- Step4:
+ Step4
  ---
  Searching and navigating through the parse tree:
  
@@ -75,7 +75,7 @@ Parsing the HTML content:
          
   we use find_all() method which is similar to find method in terms of arguments but it returns a list of all matching elements
   
-  Step5:
+  Step5
   ---
   Finally, we would like to save all our data in some CSV file:
   
